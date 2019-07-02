@@ -1,0 +1,14 @@
+body {
+    background-color:rgba(34, 180, 82, 0.397);
+}
+h1 {
+    background-color: white;
+    width: 50%;
+}
+.Caption {
+    background: purple;
+}
+.Liked {
+    background: yellow;
+
+}
